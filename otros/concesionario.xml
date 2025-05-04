@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concesionario codigo="c01">
+<datos_propietario id="1">
+    <nombre>Andrés Gutiérrez González</nombre>
+    <direccion>Norte, 8</direccion>
+    <poblacion>Alcázar de San Juan</poblacion>
+</datos_propietario>
+<distribuidor_de>
+    <marca>Renault</marca>
+    <marca>Seat</marca>
+    <marca>Kia</marca>
+</distribuidor_de>
+<vehiculos>
+    <vehiculo>
+        <marca>Seat</marca>  
+        <modelo>Ibiza</modelo>
+        <combustible>Gasolina</combustible>
+        <precio>14000</precio>    
+    </vehiculo>
+    <vehiculo>
+        <marca>Kia</marca>  
+        <modelo>Ceed</modelo>
+        <combustible>Diesel</combustible>
+        <precio>16000</precio>    
+    </vehiculo>
+    <vehiculo>
+        <marca>Renaut</marca>  
+        <modelo>Clio</modelo>
+        <combustible>Diesel</combustible>
+        <precio>18000</precio>    
+    </vehiculo>
+</vehiculos>
+</concesionario>
